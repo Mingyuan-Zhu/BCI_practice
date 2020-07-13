@@ -30,6 +30,16 @@
 
 
 
+ 2020.7.10 Preprocessing
+
+```
+
+```
+
+![img](http://learn.neurotechedu.com/images/filtered_unfiltered.png)
+
+
+
 
 
 
