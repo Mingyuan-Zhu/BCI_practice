@@ -40,11 +40,11 @@
 
 
 
+Computational BCI   Class
 
+Matlab tutorial: This is zero to 1 learning guidance from **MathWorks**
 
-
-
-
+ https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/Matlab/mtlab.pdf
 
 
 
