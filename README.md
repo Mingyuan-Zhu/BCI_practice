@@ -56,9 +56,11 @@ Matlab tutorial: This is zero to 1 learning guidance from **MathWorks**
 
 
 
+7.19 CP Brain
 
+![image-20200719142614526](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200719142614526.png)
 
-
+Important Biological Insights of Human Factors Engineering, and also linked with the model like LSTM (long-short term ) in deep learning algorithm.
 
 
 
