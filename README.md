@@ -4,9 +4,17 @@
 
 2020.6.15 Matlab， package EEGLAB
 
-```
+![image-20200723150920148](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723150920148.png)
 
 ```
+https://sccn.ucsd.edu/wiki/EEGLAB_Wiki
+
+Wiki provides a useful link!
+```
+
+
+
+
 
  2020.7.6    First Attempt- BCI_Neural_Network_Creation
 
