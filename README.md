@@ -4,7 +4,7 @@
 
 2020.6.15 Matlab， package EEGLAB
 
-![image-20200723150920148](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723150920148.png)
+![image-20200723150920148]( ./image-20200723150920148.png)
 
 ```
 https://sccn.ucsd.edu/wiki/EEGLAB_Wiki
