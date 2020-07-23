@@ -44,6 +44,8 @@ Original guide is from BCI comp
 
  2020.7.10 Preprocessing
 
+[https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/7.10%20%20EEG-preprocessing.ipynb](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/7.10  EEG-preprocessing.ipynb)
+
 ```
 We will be using the Python MNE library in this example:
 ```
@@ -76,7 +78,35 @@ Important Biological Insights of Human Factors Engineering, and also linked with
 
 
 
-## Useful Link
+
+
+6.15 to 7.23  Coursera
+
+## Computational Neuroscience
+
+by University of Washington
+
+
+
+![image-20200723205349001](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723205349001.png)
+
+
+
+![image-20200723205357765](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723205357765.png)
+
+![image-20200723205408498](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723205408498.png)
+
+![image-20200723211018145](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723211018145.png)
+
+
+
+
+
+
+
+
+
+## Some Useful Link
 
 ## Recommended Resources
 
