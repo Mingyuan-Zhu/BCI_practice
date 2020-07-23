@@ -18,20 +18,24 @@ Wiki provides a useful link!
 
  2020.7.6    First Attempt- BCI_Neural_Network_Creation
 
-```
+[https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/7.6%20First%20Atempt-%20BCI_Neural_Network_Creation.ipynb](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/7.6 First Atempt- BCI_Neural_Network_Creation.ipynb)
 
 ```
+This is the steps by steps guide(Original from MNE website, which is a package for BCI preporcessing.We here creating a neural network on the EEG data.
 
- 2020.7.6  Introduce Machine Learning on BCI
-
+To help us get start it, here we use a dataset provided on the MNE python library. This dataset provided a number of EEG samples that contain 226 data points per sample. Where each sample represents a single trial described in the problem.
 ```
 
+![image-20200723164855541](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723164855541.png)
+
+![image-20200723164916834](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723164916834.png)
+
+ ![image-20200723164940371](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723164940371.png)
+
+[https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/7.9%20Advanced%20topics.md](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/7.9 Advanced topics.md)
+
 ```
-
-2020.7.9 Advanced topics
-
-```
-
+Original guide is from BCI comp
 ```
 
 
@@ -41,12 +45,12 @@ Wiki provides a useful link!
  2020.7.10 Preprocessing
 
 ```
-
+We will be using the Python MNE library in this example:
 ```
 
 ![img](http://learn.neurotechedu.com/images/filtered_unfiltered.png)
 
-
+![image-20200723165722673](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723165722673.png)
 
 Computational BCI   Class
 
