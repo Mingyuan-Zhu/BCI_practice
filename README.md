@@ -26,11 +26,11 @@ This is the steps by steps guide(Original from MNE website, which is a package f
 To help us get start it, here we use a dataset provided on the MNE python library. This dataset provided a number of EEG samples that contain 226 data points per sample. Where each sample represents a single trial described in the problem.
 ```
 
-![image-20200723164855541](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723164855541.png)
+![image-20200723164855541.png](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200723164855541.png?raw=true)
 
-![image-20200723164916834](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723164916834.png)
+![image-20200723164916834.png](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200723164916834.png?raw=true)
 
- ![image-20200723164940371](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723164940371.png)
+![image-20200723164940371.png](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200723164940371.png?raw=true)
 
 [https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/7.9%20Advanced%20topics.md](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/7.9 Advanced topics.md)
 
@@ -52,7 +52,7 @@ We will be using the Python MNE library in this example:
 
 ![img](http://learn.neurotechedu.com/images/filtered_unfiltered.png)
 
-![image-20200723165722673](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723165722673.png)
+![image-20200723165722673.png](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200723165722673.png?raw=true)
 
 Computational BCI   Class
 
@@ -72,7 +72,7 @@ Matlab tutorial: This is zero to 1 learning guidance from **MathWorks**
 
 7.19 CP Brain
 
-![image-20200719142614526](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200719142614526.png)
+![image-20200719142614526.png](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200719142614526.png?raw=true)
 
 Important Biological Insights of Human Factors Engineering, and also linked with the model like LSTM (long-short term ) in deep learning algorithm.
 
@@ -88,17 +88,11 @@ by University of Washington
 
 
 
-![image-20200723205349001](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723205349001.png)
+https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200723205349001.png
 
 
 
-![image-20200723205357765](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723205357765.png)
-
-![image-20200723205408498](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723205408498.png)
-
-![image-20200723211018145](C:\Users\Carl\AppData\Roaming\Typora\typora-user-images\image-20200723211018145.png)
-
-
+![image-20200723205357765.png](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200723205357765.png?raw=true)![image-20200723205408408.png](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200723205408498.png?raw=true)![image-20200723211018145.png](https://github.com/Mingyuan-Zhu/BCI_practice/blob/master/typora-user-images/image-20200723211018145.png?raw=true)
 
 
 
